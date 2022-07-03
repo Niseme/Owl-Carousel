@@ -1,0 +1,17 @@
+{
+  "name": "01-carousel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "N.S.",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "nodemon": "^2.0.18"
+  }
+}
